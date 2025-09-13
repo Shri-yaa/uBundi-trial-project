@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # My Values & Work Style\
+\
+## Core Values\
+- Curiosity: I like to dig into problems until I really understand what\'92s going on.  \
+- Integrity: I\'92d rather be transparent about what I know and don\'92t know than bluff.  \
+- Collaboration: I believe the best work happens when people bring different perspectives together.  \
+- Growth mindset: I see mistakes and setbacks as signals for learning.  \
+\
+## How I Work\
+- Hands-on: I learn best by building prototypes and testing ideas quickly.  \
+- Structured but flexible: I use plans and frameworks, but I\'92m comfortable improvising when the path isn\'92t clear.  \
+- Communication: I like to explain things clearly, with examples or visuals when possible.  \
+- Balance: I value productivity, but I also respect time outside of work.  \
+\
+## What Energizes Me\
+- Solving challenging problems where the solution isn\'92t obvious.  \
+- Turning raw data or theory into something tangible and useful.  \
+- Collaborating with people who are passionate about their work.  \
+\
+## What Drains Me\
+- Work that feels repetitive with no room for improvement.  \
+- Environments with low trust or poor communication.  \
+\
+## Learning & Debugging\
+- I start by breaking the problem into smaller parts and testing each step.  \
+- I look at documentation or examples to guide me.  \
+- I\'92m not afraid to ask for help or to experiment until I find a solution.  \
+}

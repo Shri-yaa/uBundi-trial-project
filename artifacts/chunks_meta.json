@@ -1,0 +1,34 @@
+{
+  "metas": [
+    {
+      "chunk_id": "2ae763231ff2-0000",
+      "file": "personal_story.txt",
+      "relpath": "personal_story.txt",
+      "char_count": 1157
+    },
+    {
+      "chunk_id": "5d52188f232a-0000",
+      "file": "README.md",
+      "relpath": "README.md",
+      "char_count": 225
+    },
+    {
+      "chunk_id": "91b6729f0da0-0000",
+      "file": "values_and_workstyle.txt",
+      "relpath": "values_and_workstyle.txt",
+      "char_count": 1774
+    },
+    {
+      "chunk_id": "d67a71ea2911-0000",
+      "file": "projects_proud_of.txt",
+      "relpath": "projects_proud_of.txt",
+      "char_count": 1852
+    },
+    {
+      "chunk_id": "f9cdfaf8fcf6-0000",
+      "file": "CV.pdf",
+      "relpath": "CV.pdf",
+      "char_count": 1746
+    }
+  ]
+}
